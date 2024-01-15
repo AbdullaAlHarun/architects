@@ -152,6 +152,16 @@ header {
     font-size: 20px;
     font-weight: 600;
 }
+
+/*sponspors section styles*/
+#sponspors {
+    text-align: center;
+}
+
+.social-img {
+    margin-top: 50px;
+}
+
 /*Media queries*/
 @media screen and (max-width: 576px) {
     .logo-container,
